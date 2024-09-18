@@ -1,4 +1,5 @@
 <h2 align="center">Ola, meu nome é Luiz Rafael</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=1100&center=true&lines=Welcome+to+my+github+profile;My+name+is+Luiz+Rafael" alt="Typing SVG"/></a>
 <div>
   <ul>
     <li>📖 Atualmente, estou estudando HTML, CSS, JavaScript e React.</li>
