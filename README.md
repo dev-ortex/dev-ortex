@@ -20,7 +20,6 @@
 <br>
 
 <div>
-  <a href="https://github.com/dev-ortex"></a>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=dev-ortex&show_icons=true&theme=dark"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ortex&layout=compact&theme=dark"/>
 </div>
