@@ -10,17 +10,17 @@
 
 <div>
   <h2 align="center">Meus conhecimentos</h2>
-  <a href="https://github.com/dev-ortex">
+  <a href="https://github.com/dev-ortex"></a>
   <img align="center" alt="Ortex_HTML" height="30em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Ortex_CSS" height="30em" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Ortex_JS" height="30em"  src="https://img.shields.io/badge/JavaScript-EAB300?style=for-the-badge&logo=javascript&logoColor=white">
-  <img align="center" alt="Ortex_PAWN" height="30em"  src="https://img.shields.io/badge/Pawn-F3702A?style=for-the-badge&logo=Hibernate&Color=white">
+  <img align="center" alt="Ortex_JS" height="30em" src="https://img.shields.io/badge/JavaScript-EAB300?style=for-the-badge&logo=javascript&logoColor=white">
+  <img align="center" alt="Ortex_PAWN" height="30em" src="https://img.shields.io/badge/Pawn-F3702A?style=for-the-badge&logo=Hibernate&Color=white">
 </div>	
 
 <br>
 
 <div>
-  <a href="https://github.com/dev-ortex">
+  <a href="https://github.com/dev-ortex"></a>
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=dev-ortex&show_icons=true&theme=dark"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ortex&layout=compact&theme=dark"/>
 </div>
