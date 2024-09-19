@@ -3,7 +3,7 @@
 <div>
   <ul>
     <li>📖 Atualmente, estou estudando HTML, CSS, JavaScript.</li>
-    <li>⚡ Estou em busca de oportunidades para contribuir em projetos que aceitem desenvolvedores juniores!</li>
+    <li>⚡ Estou em busca de oportunidades para contribuir em projetos que aceitem desenvolvedores junior!</li>
   </ul>
 </div>
 
